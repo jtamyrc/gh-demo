@@ -1,4 +1,4 @@
-name: github-action-demo
+name: github-action-build
 on:
     push:
         branches:
