@@ -13,7 +13,7 @@ function App() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    This is a demo
+                    This is a demo for Github Action
                 </a>
             </header>
         </div>
