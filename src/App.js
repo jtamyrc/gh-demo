@@ -13,7 +13,7 @@ function App() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    This is a project
+                    This is a demo
                 </a>
             </header>
         </div>
